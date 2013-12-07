@@ -1,7 +1,7 @@
-Project-Aries
+Project-Aries Current Ver. 0.0.2
 =============
-
-Open Source. Ver. 0.0.0  Release: 12/06/13 7:26PM
+Open Source. Ver. 0.0.2  Release: 12/06/13 11:57 PM
+Open Source. Ver. 0.0.0  Release: 12/06/13 07:26 PM
 
 Project By.
 ==================
