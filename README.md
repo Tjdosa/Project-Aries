@@ -5,8 +5,8 @@ Open Source. Ver. 0.0.0  Release: 12/06/13 7:26PM
 
 Project By.
 ==================
-(Tjdosa) Takuma Valcourt
-
+(@Tjdosa) Takuma Valcourt
+(@BanitoRepublic) Nick Thiesen
 
 Website is for arcnovastudios Inc. 
 Released for soul purpose of bug testing & resources. 
