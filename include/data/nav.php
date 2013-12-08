@@ -59,6 +59,7 @@
     </div>
   </div>
 </div>
+</div>
 
 
 <!-- Main component for a primary marketing message or call to action -->
