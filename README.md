@@ -1,5 +1,10 @@
 Project-Aries
 =============
+
+Codename: Aries
+
+Apache:5.6.11 php: 5.3.25 HTML:5
+
 Current Ver. 0.1.0
 
 Open Source. Ver. 0.1.0  Release: 12/07/13 02:27 PM
