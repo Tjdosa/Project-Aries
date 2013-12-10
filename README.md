@@ -21,6 +21,8 @@ Project By.
 
 (@BanitoRepublic) Nick Thiesen
 
+(@PurpleDizzy) Josh Edwards
+
 Website is for arcnovastudios Inc. 
 Released for soul purpose of bug testing & resources. 
 Copywrite Name shall remain as is as "Arcnova Studios 2013" Unless prior permission is granted for change.
