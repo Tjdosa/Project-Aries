@@ -899,10 +899,10 @@ pre code {
 .col-sm-12,
 .col-md-12,
 .col-lg-12 {
-  position: relative;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
+	position: relative;
+	min-height: 1px;
+	padding-right: 0px;
+	padding-left: 15px;
 }
 
 .col-xs-1,
@@ -1331,7 +1331,7 @@ pre code {
     width: 50%;
   }
   .col-md-5 {
-    width: 41.66666666666667%;
+	width: 30.6667%;
   }
   .col-md-4 {
     width: 33.33333333333333%;
